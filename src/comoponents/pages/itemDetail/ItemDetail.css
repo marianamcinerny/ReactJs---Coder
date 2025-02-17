@@ -1,0 +1,35 @@
+.detail {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.img-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  margin-left: 100px;
+}
+.img-container img {
+  height: 800px;
+  width: auto;
+}
+
+.info-container {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 100px;
+}
+
+.info-container h2 {
+  margin: 5px;
+}
+
+.info-container h3 {
+  margin: 5px 0 10px 0;
+}

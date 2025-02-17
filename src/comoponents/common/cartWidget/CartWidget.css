@@ -1,0 +1,11 @@
+.shopping-cart {
+  width: 25px;
+  height: 25px;
+  margin-right: 10px;
+}
+
+.cartwidget-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
