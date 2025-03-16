@@ -1,8 +1,15 @@
-# React + Vite
+# Curso de React Js de Coderhouse
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Descripción
 
-Currently, two official plugins are available:
+Este proyecto es un ecommerce que permite a los usuarios navegar, agregar productos al carrito, y realizar compras. La aplicación está desarrollada con **React** y utiliza **Vite** como herramienta de construcción, lo que proporciona una experiencia de desarrollo rápida y eficiente.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+La información de los productos y las operaciones del carrito se gestionan utilizando **Firebase** como backend, lo que permite un almacenamiento en tiempo real y la autenticación de usuarios.
+
+Los usuarios pueden explorar productos, añadirlos y eliminarlos de su carrito, así como vaciarlo por completo.
+
+## Tecnologías
+
+- **React**: Framework de JavaScript para construir la interfaz de usuario.
+- **Vite**: Herramienta de construcción rápida para el desarrollo en React.
+- **Firebase**: Utilizado para la gestión de datos en tiempo real, autenticación de usuarios y almacenamiento de productos.
