@@ -5,3 +5,9 @@
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.skeleton {
+  display: flex;
+  justify-content: center;
+  gap: 50px;
+}
